@@ -1,6 +1,6 @@
-# hello-world
+# Hello-world for Git and GitHub
 A repo for learning the turial of GitHub.
-## Learning plan
+## Learning Track
 
 1. Android Studio: create a Android project and run it.
 2. Git: fundametals for Git, a popular VCS.
